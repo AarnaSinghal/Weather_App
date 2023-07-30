@@ -1,6 +1,6 @@
 #weatherApp
 
-LIVE WEBSITE LINK: https://aarnasinghal.github.io/Weather_App/
+LIVE HERE: https://aarnasinghal.github.io/Weather_App/
 
 WeatherApp: Your Complete Weather Companion
 
