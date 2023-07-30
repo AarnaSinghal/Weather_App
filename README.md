@@ -18,4 +18,3 @@ Key Features:
 
 5. Interactive User Interface: WeatherApp features a user-friendly interface designed for a seamless browsing experience. The app's responsive design ensures optimal accessibility across various devices and screen sizes, enabling you to access weather information conveniently from desktops, tablets, or mobile devices.
 
-Open-Source and Collaborative: WeatherApp is an open-source project, welcoming contributions from the developer community. Developers can contribute to the project, suggest improvements, and collaborate to enhance the application's functionality and user experience.
